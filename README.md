@@ -5,7 +5,7 @@ These are my answers for the 2022 Advent of Code challenges.
 ---
 | Day | Part 1 | Part 2 | Language |
 | --- | --- | --- | --- |
-| 1 | ✓ |  |  |
+| 1 | ✓ | ✓ |  |
 | 2 |  |  |  |
 | 3 |  |  |  |
 | 4 |  |  |  |
