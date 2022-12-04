@@ -2,8 +2,6 @@
 
 These are my answers for the 2022 Advent of Code challenges.
 
-Organization is not spectacular to say the least.
-
 ---
 | Day | Part 1 | Part 2 | Language |
 | --- | --- | --- | --- |
