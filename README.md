@@ -7,7 +7,7 @@ These are my answers for the 2022 Advent of Code challenges.
 | --- | --- | --- |------|
 | 1 | ✓ | ✓ | Python |
 | 2 | ✓ | ✓ | Python |
-| 3 |  |  |      |
+| 3 | ✓ | ✓ |      |
 | 4 |  |  |      |
 | 5 |  |  |      |
 | 6 |  |  |      |
